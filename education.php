@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Education details</title>
+  <title>Education detai21255ls</title>
 </head>
 
 <body>
@@ -51,4 +51,5 @@
     </form>
     </body>
   
+
 </html>
