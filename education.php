@@ -29,7 +29,7 @@
     <input type="text" name="ugmarks" placeholder="UG Degree Marks"/>
     <br>
     <h3>PG Degree</h3>
-    <input type="text" name="pgdegree" placeholder="PG Deg8455ree"/>
+    <input type="text" name="pgdegree" placeholder="PG Degree"/>
     <br>
     <h3>PG Degree Marks</h3>
     <input type="text" name="pgmarks" placeholder="PG Degree Marks"/>
@@ -53,6 +53,7 @@
   
 
 </html>
+
 
 
 
