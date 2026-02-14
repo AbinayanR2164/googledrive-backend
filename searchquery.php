@@ -3,7 +3,7 @@ session_start();
 require "registerdbcon.php";
 
 if (!isset($_SESSION['name'])) {
-    echo "❌ Error: User not 564646logged in!";
+    echo "❌ Error: User not logged in!";
     exit();
 }
 $name = $_SESSION['name'];
@@ -162,4 +162,5 @@ $name = $_SESSION['name'];
 
 </body>
 </html>
+
 
