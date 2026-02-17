@@ -18,7 +18,7 @@
     <h3>Student Name</h3>
     <input type="text" name="name" <?php $name=$_REQUEST['id'];?>   value="<?php echo "$name"; ?>"   readonly  ><br>
      <h3>SSLC Marks</h3>
-    <input type="text" name="sslcmarks" placeholder="SS,LC Marks in %"/><br>
+    <input type="text" name="sslcmarks" placeholder="SSLC Marks in %"/><br>
     <h3>HSC Marks</h3>
     <input type="text" name="hscmarks" placeholder="HSC Marks in %"/>
     <br>
@@ -53,6 +53,7 @@
   
 
 </html>
+
 
 
 
