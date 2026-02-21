@@ -187,9 +187,10 @@ if (!empty($name)) {
     <?php endif; ?>
 
   <?php else: ?>
-    <div class="error">No user selected this. Please provide ?id=USERNAME in the URL.</div>
+    <div class="error">No user selected . Please provide ?id=USERNAME in the URL.</div>
   <?php endif; ?>
 </div>
 </body>
 </html>
+
 
