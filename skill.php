@@ -9,7 +9,7 @@ $name = $_REQUEST['id'] ?? '';
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Yinka Enoch Adedokun">
-  <title>Register Page</title>
+  <title>Register Pasdfbnge</title>
 </head>
 <body>
   <!-- Your existing form structure unchanged -->
@@ -102,4 +102,5 @@ $name = $_REQUEST['id'] ?? '';
     Coded with &hearts; by Tech Infinity
   </div>
 </body>
+
 </html>
