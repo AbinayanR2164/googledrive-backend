@@ -9,7 +9,7 @@ $name = $_REQUEST['id'] ?? '';
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Yinka Enoch Adedokun">
-  <title>Register Pasdfbnge</title>
+  <title>Register Page</title>
 </head>
 <body>
   <!-- Your existing form structure unchanged -->
@@ -58,7 +58,7 @@ $name = $_REQUEST['id'] ?? '';
       ">
       <thead style="background:#49708f; color:#fff;">
         <tr>
-          <th style="padding:10px; text-align:left;">Skill</th>
+          <th style="padding:10px; text-align:left;">Skills</th>
           <th style="padding:10px; text-align:left;">Level</th>
           <th style="padding:10px; text-align:left;">Fields</th>
           <th style="padding:10px; text-align:center;">Action</th>
@@ -104,3 +104,4 @@ $name = $_REQUEST['id'] ?? '';
 </body>
 
 </html>
+
