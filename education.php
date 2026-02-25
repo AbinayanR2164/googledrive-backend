@@ -12,7 +12,7 @@
   <form class="register" action="educationquery.php" method="post">
 <div class="login">
   <div class="login-header">
-    <h1>Education Details</h1>
+    <h1>Education Details1234567890-=</h1>
   </div>
   <div class="login-form">
     <h3>Student Name</h3>
@@ -53,6 +53,7 @@
   
 
 </html>
+
 
 
 
